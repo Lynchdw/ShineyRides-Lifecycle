@@ -1,0 +1,44 @@
+shinyrides-lifecycle.txt
+
+
+
+Requirements
+	- Defining the requirements for the project from the project sponsor
+
+Design
+	-
+
+Implementation
+	- 
+
+Testing
+	- Trying all the different use cases of the project to ensure they work correctly according to the requirements
+
+Release
+	-
+
+Maintenance
+	- Releasing patches to fix errors that were not meant for the project
+	
+Updating/Upgrading
+	- 
+
+Three things about requirements:
+Need to meet with the customer to get all the requirements
+Think about what their overall goal is from the project
+Getting the budget for the project
+
+Three things about design:
+Bringing the architect into the team
+Creating diagrams for the systems needed for the solution
+Brainstorming for the solution
+
+Three things about implementation:
+Coding needed files from the design phase
+Working with the design team to get their solution
+Creating the solution to meet requirements
+
+Three things about testing:
+Try to break the program
+Test the system to see if it does what is intended
+
