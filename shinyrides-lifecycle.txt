@@ -38,7 +38,7 @@ Release
 Maintenance
 	- Releasing patches to fix errors that were not meant for the project
 	- Fixing security issues
-	- Fixing genral bugs 
+	- Fixing general bugs 
 	- Fixing service impacting bugs
 	
 Updating/Upgrading
@@ -64,4 +64,19 @@ Creating the solution to meet requirements
 Three things about testing:
 Try to break the program
 Test the system to see if it does what is intended
+Verifying the product
+
+Three things about release:
+Deploy tested project to production
+Work with the customer and monitor after release
+Make sure the project is still on budget
+
+Three things about maintenance:
+Releasing patches to fix errors that were not meant for the project
+Fixing security issues
+Fixing general bugs 
+Fixing service impacting bugs
+
+Three things about updates/upgrades:
+
 
