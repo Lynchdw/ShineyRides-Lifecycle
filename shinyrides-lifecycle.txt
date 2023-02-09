@@ -37,9 +37,9 @@ Release
 
 Maintenance
 	- Releasing patches to fix errors that were not meant for the project
-	- Fixing security issues
-	- Fixing general bugs 
-	- Fixing service impacting bugs
+	- Is there any security issues?
+	- Is there any general bugs?
+	- Is the service performing as intended?
 	
 Updating/Upgrading
 	- Adding new features missed from the requirements
