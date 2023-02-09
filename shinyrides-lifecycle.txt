@@ -42,7 +42,9 @@ Maintenance
 	- Fixing service impacting bugs
 	
 Updating/Upgrading
-	- 
+	- Adding new features missed from the requirements
+	- expanding features to improve functionality
+	- improve already exsisting features
 
 Three things about requirements:
 Need to meet with the customer to get all the requirements
