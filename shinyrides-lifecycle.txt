@@ -78,5 +78,6 @@ Fixing general bugs
 Fixing service impacting bugs
 
 Three things about updates/upgrades:
-
-
+Adding new features missed from the requirements
+expanding features to improve functionality
+improve already exsisting features
