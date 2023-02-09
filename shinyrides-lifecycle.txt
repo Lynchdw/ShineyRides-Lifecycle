@@ -37,6 +37,9 @@ Release
 
 Maintenance
 	- Releasing patches to fix errors that were not meant for the project
+	- Fixing general bug issues. 
+	- Fixing security issues 
+	- Fixing servince impacting bugs. 
 	
 Updating/Upgrading
 	- 
