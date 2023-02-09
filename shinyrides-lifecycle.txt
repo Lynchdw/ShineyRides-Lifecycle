@@ -30,7 +30,10 @@ Testing
 
 
 Release
-	-
+	- Deploy tested project to production
+	- Work with the customer and monitor after release
+	- Make sure the project is still on budget
+
 
 Maintenance
 	- Releasing patches to fix errors that were not meant for the project
