@@ -4,15 +4,30 @@ shinyrides-lifecycle.txt
 
 Requirements
 	- Defining the requirements for the project from the project sponsor
+	- The process of gathering the goals and intensions of the project.
+	- What is the goal?
+	- When does it need to be done?
+	- What does it need to do?
+	- What is the budget?
 
 Design
-	-
+	- Take in to account how the product should function
+	- What tools (languages, APIs, etc will be used)
+	- What should it look like visually 
 
 Implementation
-	- 
+	- The process of building the product and preparing it for production
+	- Actually build the thing
+	- Put pen to paper
+	- Work together to meet the requirements
 
 Testing
 	- Trying all the different use cases of the project to ensure they work correctly according to the requirements
+	- The process of verifying the product and making sure it is ready to go in to production. 
+	- Does it work?
+	- What needs to change?
+	- What is the impact of the changes?
+
 
 Release
 	-
